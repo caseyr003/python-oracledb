@@ -1,0 +1,9 @@
+# file to keep db credentials
+credentials.txt
+
+# IDEs and editors
+.idea
+/.idea
+
+# System Files
+.DS_Store
